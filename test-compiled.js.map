@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":[],"mappings":"AAAA","file":"test-compiled.js","sourcesContent":["/*data.splice(0,1);\n _.each(data, (row)=>{\n let rowObject = {};\n\n if(row.length > 0){\n row.splice(0,1);\n _.each(row, (d, i)=>{\n rowObject[headers[i]] = d;\n });\n\n }\n });*/"]}
